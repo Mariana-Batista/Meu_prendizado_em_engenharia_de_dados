@@ -36,6 +36,13 @@ Aqui estão as principais formações que concluí até agora:
   <li>Criação de medidas e colunas calculadas com linguagem DAX. </li>
 </ul>
 
+### 5. Python para Data Science - Alura
+<ul>
+  <li>Exploração da linguagem Python para Data Science.</li>
+  <li>Manipulação e análise de dados.</li>
+  <li>Limpeza e tratamento de dados.</li>
+</ul>
+
 ## Projetos 🚀
 ### 1. Pipeline de Dados com MongoDB e MySQL
    
@@ -43,6 +50,13 @@ Aqui estão as principais formações que concluí até agora:
 <p>Tecnologias Utilizadas: Python, MongoDB, MySQL.</p>
 
 [Ver Projeto](https://github.com/Mariana-Batista/Pipeline_MongoDB_SQL)
+
+### 2. Python para Data Science
+   
+<p>Descrição: Exploração da linguagem Python e das bibliotecas Pandas e NumPy para manipulação e análise de dados.</p>
+<p>Tecnologias Utilizadas: Python, Pandas, NumPy, Jupyter Notebook.</p>
+
+[Ver Projeto](https://github.com/Mariana-Batista/notebooks_python)
 
 ## Recursos Recomendados 📚
 Durante meus estudos, encontrei alguns recursos valiosos que gostaria de compartilhar:
