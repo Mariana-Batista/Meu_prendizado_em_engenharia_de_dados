@@ -39,8 +39,8 @@ Aqui estão as principais formações que concluí até agora:
 ## Projetos 🚀
 ### 1. Pipeline de Dados com MongoDB e MySQL
    
-Descrição: Construção de um pipeline de dados completo que envolve a extração de dados de fontes externas, transformação dos dados e carregamento em um banco de dados SQL e NoSQL.
-Tecnologias Utilizadas: Python, MongoDB, MySQL.
+<p>Descrição: Construção de um pipeline de dados completo que envolve a extração de dados de fontes externas, transformação dos dados e carregamento em um banco de dados SQL e NoSQL.</p>
+<p>Tecnologias Utilizadas: Python, MongoDB, MySQL.</p>
 
 [Ver Projeto](https://github.com/Mariana-Batista/Pipeline_MongoDB_SQL)
 
