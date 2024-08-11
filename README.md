@@ -51,10 +51,17 @@ Aqui estão as principais formações que concluí até agora:
 
 [Ver Projeto](https://github.com/Mariana-Batista/Pipeline_MongoDB_SQL)
 
-### 2. Python para Data Science
+### 2. Pipeline de dados
    
 <p>Descrição: Exploração da linguagem Python e das bibliotecas Pandas e NumPy para manipulação e análise de dados.</p>
 <p>Tecnologias Utilizadas: Python, Pandas, NumPy, Jupyter Notebook.</p>
+
+[Ver Projeto](https://github.com/Mariana-Batista/pipeline_dados_OO)
+
+### 3. Python para Data Science
+   
+<p>Descrição: Técnicas de engenharia de dados para consolidar, limpar e preparar dados para análise ou carregamento em um sistema de armazenamento.</p>
+<p>Tecnologias Utilizadas: Python, Jupyter Notebook.</p>
 
 [Ver Projeto](https://github.com/Mariana-Batista/notebooks_python)
 
@@ -66,6 +73,7 @@ Durante meus estudos, encontrei alguns recursos valiosos que gostaria de compart
   <li>Documentação do Pandas</li>
   <li>Cursos na Alura</li>
   <li>Artigo: "Building ETL Pipelines with Python"</li>
+  <li>Livro: Data Science do Zero - Primeiras Regras com o Python</li>
 </ul>
 
 ## Próximos Passos 🚧
