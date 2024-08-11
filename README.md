@@ -21,26 +21,26 @@ Aqui estão as principais formações que concluí até agora:
   <li>Álgebra relacional e normalização.</li>
 </ul>
 
-### 3. Programção em Python com Orientação a Objetos - Alura
+### 3. Programação em Python com Orientação a Objetos - Alura
 <ul>
   <li>Criação e execução do primeiro programa.</li>
   <li>Aplicação dos principais conceitos do paradigma de orientação a objetos. </li>
   <li>Criação de ambientes virtuais para isolar dependências e módulos. </li>
 </ul>
 
-### 4. Power BI - Alura
+### 4. Python para Data Science - Alura
+<ul>
+  <li>Exploração da linguagem Python para Data Science.</li>
+  <li>Manipulação e análise de dados.</li>
+  <li>Limpeza e tratamento de dados.</li>
+</ul>
+
+### 5. Power BI - Alura
 <ul>
   <li>Criação de dashboards.</li>
   <li>Tratamento de dados no Power Query. </li>
   <li>Preparação e manipulação de informações com a linguagem  M. </li>
   <li>Criação de medidas e colunas calculadas com linguagem DAX. </li>
-</ul>
-
-### 5. Python para Data Science - Alura
-<ul>
-  <li>Exploração da linguagem Python para Data Science.</li>
-  <li>Manipulação e análise de dados.</li>
-  <li>Limpeza e tratamento de dados.</li>
 </ul>
 
 ## Projetos 🚀
