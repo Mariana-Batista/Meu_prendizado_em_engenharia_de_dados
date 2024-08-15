@@ -65,6 +65,13 @@ Aqui estão as principais formações que concluí até agora:
 
 [Ver Projeto](https://github.com/Mariana-Batista/notebooks_python)
 
+### 4. Club Books
+   
+<p>Descrição: Projeto desenvolvido para coletar, transformar e carregar informações sobre livros de um site de scraping, utilizando um pipeline de dados completo. .</p>
+<p>Tecnologias Utilizadas: Python, MYSql, Requests.</p>
+
+[Ver Projeto](https://github.com/Mariana-Batista/club_books)
+
 ## Recursos Recomendados 📚
 Durante meus estudos, encontrei alguns recursos valiosos que gostaria de compartilhar:
 
