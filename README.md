@@ -65,12 +65,12 @@ Aqui estão as principais formações que concluí até agora:
 
 [Ver Projeto](https://github.com/Mariana-Batista/notebooks_python)
 
-### 4. Club Books
+### 4. Books Club - Em construção
    
-<p>Descrição: Projeto desenvolvido para coletar, transformar e carregar informações sobre livros de um site de scraping, utilizando um pipeline de dados completo. .</p>
-<p>Tecnologias Utilizadas: Python, MYSql, Requests.</p>
+<p> O projeto Books Club é uma solução de engenharia de dados desenvolvida para a startup Book Club. O sistema é responsável pela extração, transformação e carregamento (ETL) de dados de livros para um banco de dados MySQL, visando auxiliar na recomendação e análise de livros para troca e venda.</p>
+<p>Tecnologias Utilizadas: Python, MYSql, Scrapy e  APScheduler.</p>
 
-[Ver Projeto](https://github.com/Mariana-Batista/club_books)
+[Ver Projeto](https://github.com/Mariana-Batista/Book_Club)
 
 ## Recursos Recomendados 📚
 Durante meus estudos, encontrei alguns recursos valiosos que gostaria de compartilhar:
@@ -80,7 +80,8 @@ Durante meus estudos, encontrei alguns recursos valiosos que gostaria de compart
   <li>Documentação do Pandas</li>
   <li>Cursos na Alura</li>
   <li>Artigo: "Building ETL Pipelines with Python"</li>
-  <li>Livro: Data Science do Zero - Primeiras Regras com o Python</li>
+  <li>Livro: Data Science do Zero - Primeiras Regras com o Python (Joel Grus) </li>
+  <li>Livro: Fundamentos da Engenharia de Dados (Joe Reis) </li>
 </ul>
 
 ## Próximos Passos 🚧
