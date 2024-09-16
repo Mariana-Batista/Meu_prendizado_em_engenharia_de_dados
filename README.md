@@ -79,6 +79,7 @@ Durante meus estudos, encontrei alguns recursos valiosos que gostaria de compart
   <li>Documentação Oficial do Python</li>
   <li>Documentação do Pandas</li>
   <li>Cursos na Alura</li>
+  <li>Jornada de Dados - Bootcamp's e Workshop's</li>
   <li>Artigo: "Building ETL Pipelines with Python"</li>
   <li>Livro: Data Science do Zero - Primeiras Regras com o Python (Joel Grus) </li>
   <li>Livro: Fundamentos da Engenharia de Dados (Joe Reis) </li>
