@@ -43,6 +43,21 @@ Aqui estão as principais formações que concluí até agora:
   <li>Criação de medidas e colunas calculadas com linguagem DAX. </li>
 </ul>
 
+## Formações Em Andamento ![sand-clock](https://github.com/user-attachments/assets/6bd787da-a97a-43c8-a1b4-7cc0e3c8e7a6)
+
+### 1. Bootcamp Intensivo Python - Jornada de Dados
+<ul>
+  <li>Introdução a linguagem Python</li>
+  <li>Aplicação dos principais conceitos do paradigma de orientação a objetos.</li>
+</ul>
+
+### 2. Python 3 completo - Udemy
+<ul>
+  <li>Lógica de programação (partes básicas de Python 3).</li>
+  <li>Programação procedural e funcional (funções, repetições e partes relacionadas).</li>
+  <li>Programação orientada a objetos (no modo Pythônico) - Inclui seção específica de POO com Padrões de Projeto GoF</li>
+</ul>
+
 ## Projetos 🚀
 ### 1. Pipeline de Dados com MongoDB e MySQL
    
@@ -78,8 +93,8 @@ Durante meus estudos, encontrei alguns recursos valiosos que gostaria de compart
 <ul>
   <li>Documentação Oficial do Python</li>
   <li>Documentação do Pandas</li>
-  <li>Cursos na Alura</li>
   <li>Jornada de Dados - Bootcamp's e Workshop's</li>
+  <li>Python 3 completo: PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação - Udemy </li>
   <li>Artigo: "Building ETL Pipelines with Python"</li>
   <li>Livro: Data Science do Zero - Primeiras Regras com o Python (Joel Grus) </li>
   <li>Livro: Fundamentos da Engenharia de Dados (Joe Reis) </li>
