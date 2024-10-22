@@ -43,19 +43,26 @@ Aqui estão as principais formações que concluí até agora:
   <li>Criação de medidas e colunas calculadas com linguagem DAX. </li>
 </ul>
 
-## Formações Em Andamento ![sand-clock](https://github.com/user-attachments/assets/6bd787da-a97a-43c8-a1b4-7cc0e3c8e7a6)
-
-### 1. Bootcamp Intensivo Python - Jornada de Dados
+### 6. Bootcamp Intensivo Python - Jornada de Dados
 <ul>
   <li>Introdução a linguagem Python</li>
   <li>Aplicação dos principais conceitos do paradigma de orientação a objetos.</li>
+  <li>Criação de banco de dados com SQLAlchemy.</li>
+  <li>Qualidade de dados com Pydantic.</li>
 </ul>
+
+## Formações Em Andamento ![sand-clock](https://github.com/user-attachments/assets/6bd787da-a97a-43c8-a1b4-7cc0e3c8e7a6)
 
 ### 2. Python 3 completo - Udemy
 <ul>
   <li>Lógica de programação (partes básicas de Python 3).</li>
   <li>Programação procedural e funcional (funções, repetições e partes relacionadas).</li>
   <li>Programação orientada a objetos (no modo Pythônico) - Inclui seção específica de POO com Padrões de Projeto GoF</li>
+</ul>
+
+### 2. Bootcamp Intensivo SQL - Jornada de Dados
+<ul>
+  <li>Fundamentos do SQL. </li>
 </ul>
 
 ## Projetos 🚀
