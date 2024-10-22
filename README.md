@@ -1,7 +1,7 @@
 # Meu Aprendizado em Engenharia de Dados 📊
 Bem-vindo ao meu repositório de estudos e projetos em Engenharia de Dados! Este espaço foi criado para documentar minha especialização nessa área e para compartilhar os conhecimentos e projetos que venho desenvolvendo ao longo do tempo.
 
-## Sobre Mim
+## Sobre Mim 👩🏻‍🎓
 Sou formada em Engenharia de Software, com o objetivo de me especializar e me tornar uma referência na área de Engenharia de Dados. Atualmente, estou aprimorando minhas habilidades em engenharia de dados, utilizando tecnologias como Python, MongoDB, MySQL, e técnicas de ETL.
 
 ## Formações Concluídas 🎓
@@ -51,7 +51,7 @@ Aqui estão as principais formações que concluí até agora:
   <li>Qualidade de dados com Pydantic.</li>
 </ul>
 
-## Formações Em Andamento ![sand-clock](https://github.com/user-attachments/assets/6bd787da-a97a-43c8-a1b4-7cc0e3c8e7a6)
+## Formações Em Andamento ⏳
 
 ### 2. Python 3 completo - Udemy
 <ul>
