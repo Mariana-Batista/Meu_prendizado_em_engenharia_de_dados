@@ -53,7 +53,7 @@ Aqui estão as principais formações que concluí até agora:
 
 ## Formações Em Andamento ⏳
 
-### 2. Python 3 completo - Udemy
+### 1. Python 3 completo - Udemy
 <ul>
   <li>Lógica de programação (partes básicas de Python 3).</li>
   <li>Programação procedural e funcional (funções, repetições e partes relacionadas).</li>
@@ -64,6 +64,8 @@ Aqui estão as principais formações que concluí até agora:
 <ul>
   <li>Fundamentos do SQL. </li>
 </ul>
+
+### 3. Bootcamp Webscraping - Jornada de Dados
 
 ## Projetos 🚀
 ### 1. Pipeline de Dados com MongoDB e MySQL
